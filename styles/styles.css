@@ -101,6 +101,16 @@ color: black;
     text-align: start;
 }
 
-
+.bullet1{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+    margin-top: 135px;
+    gap: 16px;
+    
+    
+}
 
 
