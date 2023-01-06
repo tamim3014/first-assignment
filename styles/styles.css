@@ -3,7 +3,7 @@
 .{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family:sans-serif;
 }
 
 .banner-img{
@@ -65,6 +65,7 @@ margin-bottom: 32px;
     display: flex;
     position: relative;
     margin-top: 131px;
+    margin-bottom: 120px;
 }
 
 .img2{
@@ -74,6 +75,7 @@ margin-bottom: 32px;
     height: 100px;
     left: 206px;
     top: 650px;
+    
 }
 
 .main-text{
@@ -109,8 +111,42 @@ color: black;
     top: 1416px;
     margin-top: 135px;
     gap: 16px;
-    
-    
+    list-style-image: url(/images/check-mark-1292787_1280_24x24.webp);
+
 }
 
+/* plan section */
 
+.plan-head{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 975px;
+top: 1860px;
+font-weight: 700;
+font-size: 40px;
+}
+
+.plan-container{
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 550px;
+    top: 2000px;
+    display: flex;
+    gap: 150px;
+    text-align: center;
+}
+
+.plan-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.plan-description{
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 5px;
+}
