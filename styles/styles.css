@@ -1,0 +1,106 @@
+/* banner styles */
+
+.{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner-img{
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    
+}
+
+.banner-title{
+    font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+
+position: relative;
+width: 700px;
+height: 228px;
+left: 845px;
+top: 216px;
+}
+
+.banner-text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+position: absolute;
+width: 650px;
+height: 78px;
+left: 876px;
+top: 468px;
+margin-top: 50px;
+margin-left: 30px;
+margin-bottom: 32px;
+}
+
+.common{
+    text-align: right;
+}
+
+.btn-primary{
+    background: tomato;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    width: 130px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    margin: 50px 215px;
+}
+
+/* main section */
+
+.main{
+    display: flex;
+    position: relative;
+    margin-top: 131px;
+}
+
+.img2{
+    
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    left: 206px;
+    top: 650px;
+}
+
+.main-text{
+    text-align: right;
+    margin-top: 850px;
+    position: relative;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+}
+
+.main-head{
+    justify-content: center;
+    text-align:start;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: black;
+}
+
+.main-des{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: start;
+}
+
+
+
+
